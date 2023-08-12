@@ -16,5 +16,6 @@ public class Main {
                 (Math.pow(1 + monthlyInterestRate, totalPayments) - 1);
 
         System.out.println("Mortgage: $" + mortgage);
+        System.out.println("NewBranch");
     }
 }
